@@ -1,0 +1,55 @@
+Documentation
+
+Objective:
+-	To study about the weight conversion tools and to learn new programming language.
+-	To create a python program that works as a weight inter conversion application.
+
+Introduction:
+The weight conversion units are:
+Pounds
+Ounces 
+Metric tons
+Troy pounds
+Grams
+Kilograms
+Micro grams
+Milli grams
+Stones
+
+This given program is used to convert the above mentioned weight units into one another.
+
+LOGIC:
+Each of the inter conversion is performed using python programming language.
+Initially, individual conversion between the different weight units is done by learning about basic mathematical function and conversion numerical.
+Later on, all the weight conversions are combined together in a single program by using switch case.
+The program finally obtained includes various cases which can easily convert one weight unit into another.
+The python statements are easy to understand and we have used simpler python function into it.
+
+Features:
+-	It is a basic python program which is easy to understand if you have basic knowledge about python language.
+-	Very easy to use, all you need to do is enter the numeric code of the weight unit mentioned there during the run of the program and then you have to enter the number in the selected unit.
+-	The result is very accurate and it is easily obtained.
+
+Tools Used:
+
+-	Python 3.7.3 - Python 3.7.3 is the third maintenance release of Python 3.7. The Python 3.7 series is the newest major release of the Python language and contains many new features and optimizations.
+-	Visual studio code - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
+
+Test Instruction:
+All we need to do is:
+- First, open the attached .py file and run the given program in command prompt.
+- Enter the numeric code of the weight unit in which you want to enter the value to be converted in other weight units.
+-	Finally, the program will ask for the numeric value in the selected unit and you need to enter the value.
+-	The program will display the conversion of that entered numeric value in different weight units.
+-	It will ask you weather you have to continue running the program or not(Y/N). Enter the same as per your wish.  
+
+CONTRIBUTORS:
+-	Aadarsh Verma: https://github.com/Adarsh0603/project2
+-	Akeeb Pathan: https://github.com/Akeeb16/project2
+-	Ridam Jain: https://github.com/ridam258/project2
+-	Sanya Jain:  https://github.com/SAN06311521/project2
+
+REFERANCES:
+Online weight converter.
+Greekforgreeks.org
+Codecacademy.
