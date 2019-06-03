@@ -1,3 +1,5 @@
+ // pounds to other units //
+  
 pounds = float(input("enter the weight in pounds: "))
 kg = pounds*0.454
 ounce = pounds*16.0
