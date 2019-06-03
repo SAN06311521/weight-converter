@@ -1,3 +1,5 @@
+ // stonnes to other weight units//
+  
 stone = float(input("enter the weight in stones: "))
 pounds = stone*14.0
 kg = stone*6.3503
